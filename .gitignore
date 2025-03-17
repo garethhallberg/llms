@@ -1,3 +1,9 @@
+# Environment variables
+.env
+
+# Gradio
+.gradio/
+
 # Compiled class file
 *.class
 
