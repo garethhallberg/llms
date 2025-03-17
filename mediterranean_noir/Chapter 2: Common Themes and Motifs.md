@@ -1,7 +1,3 @@
-Sure! Below is a draft for Chapter 2, focusing on the common themes and motifs found in Mediterranean noir, with references to Massimo Carlotto.
-
----
-
 ### Chapter 2: Common Themes and Motifs
 
 #### Morality and Ethics: The Struggle Between Good and Evil
@@ -24,7 +20,7 @@ In Carlotto’s writings, corruption is depicted as a pervasive force that infil
 
 #### Isolation and Community: The Duality of Being Part of a Close-Knit Society
 
-Mediterranean noir also delves into the themes of isolation and community, exploring the paradox of being ensconced in a tight-knit society while simultaneously feeling disconnected. The genre frequently uses the concept of community to emphasize how individual actions can reverberate outward, affecting not just the person but also their family and social networks. 
+Mediterranean noir also delves into the themes of isolation and community, exploring the paradox of being ensconced in a tight-knit society while simultaneously feeling disconnected. The genre frequently uses the concept of community to emphasize how individual actions can reverberate outward, affecting not just the person but also their family and social networks.
 
 In Carlotto's work, the interplay between character isolation and community tension is often highlighted, as characters attempt to navigate societal norms while grappling with personal desires and conflicts. His narratives reveal how individuals may feel trapped by familial or societal expectations, struggling to break free while simultaneously grappling with loyalty. The Mediterranean setting enhances this dynamic, as local customs and traditions serve to bind characters within a web of relationships that can both support and suffocate them.
 

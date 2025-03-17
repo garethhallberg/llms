@@ -1,12 +1,8 @@
-Sure! Here’s a draft of the introduction based on the outline provided. 
-
----
-
 ### Introduction
 
 #### Define Mediterranean Noir: Characteristics and Themes
 
-Mediterranean noir is a distinct subgenre of crime fiction that has emerged from the rich tapestry of cultures bordering the Mediterranean Sea. It encompasses a unique blend of suspense, moral ambiguity, and aesthetic beauty, creating an engaging contradiction that pulls readers into a world where the sun-drenched settings are often shadowed by crime and corruption. Unlike traditional noir, which often highlights the gritty life of urban centers, Mediterranean noir trades in complex emotions, intricate plotting, and the deep historical currents that shape its societies. A defining characteristic of this genre is its exploration of how personal and societal struggles intertwine, manifesting in both individual psychological conflicts and broader social disenfranchisement. 
+Mediterranean noir is a distinct subgenre of crime fiction that has emerged from the rich tapestry of cultures bordering the Mediterranean Sea. It encompasses a unique blend of suspense, moral ambiguity, and aesthetic beauty, creating an engaging contradiction that pulls readers into a world where the sun-drenched settings are often shadowed by crime and corruption. Unlike traditional noir, which often highlights the gritty life of urban centers, Mediterranean noir trades in complex emotions, intricate plotting, and the deep historical currents that shape its societies. A defining characteristic of this genre is its exploration of how personal and societal struggles intertwine, manifesting in both individual psychological conflicts and broader social disenfranchisement.
 
 #### Brief History of Crime Fiction in the Mediterranean Context
 
